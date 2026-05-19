@@ -21,6 +21,6 @@ of the apps listed below.
 
 | Name | Version | Updated |
 | ---- | ------- | ------- | 
-| [Pandplay](https://github.com/jre/pandplay) | [0.0.1](https://github.com/jre/pandplay/releases/tag/v0.0.1) | August 18 2025 | 
+| [Pandplay](https://github.com/jre/pandplay) | [0.0.2](https://github.com/jre/pandplay/releases/tag/v0.0.2) | May 19 2026 | 
 
 Last updated on May 19 2026
